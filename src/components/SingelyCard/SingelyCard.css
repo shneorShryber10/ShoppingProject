@@ -1,0 +1,48 @@
+.singel-card-container {
+  height: 100vh;
+  display: flex;
+}
+.singel-card-container h1 {
+  margin-left: 20px;
+}
+.singel-card-container h4 {
+  margin-left: 235px;
+  margin-top: 50px;
+}
+.singel-card-container img {
+  height: 400px;
+}
+.singel-card-container .singel-card-lorem {
+  width: 50%;
+  margin: auto;
+}
+.singel-card-container .add-product {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.singel-card-container .add-product button {
+  font-size: 35px;
+  background: border-box;
+  border: none;
+  border: none;
+  margin-right: 6px;
+  border-radius: 50%;
+  margin-left: 6px;
+}
+.singel-card-container .add-to-wagon {
+  margin-left: 40px;
+}
+.singel-card-container .add-to-wagon button {
+  width: 100px;
+  height: auto;
+  border-radius: 17px 17px 17px 17px;
+  border: 0.3px solid;
+  background: #faebd7;
+  background: linear-gradient(0deg, #faebd7 0%, #dd9b43 80%);
+  background: -moz-linear-gradient(0deg, #faebd7 0%, #dd9b43 80%);
+}
+
+img {
+  width: 400px;
+  height: 450px;
+}/*# sourceMappingURL=SingelyCard.css.map */

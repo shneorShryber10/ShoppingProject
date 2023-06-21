@@ -1,0 +1,57 @@
+.all-page-add {
+  width: 100%;
+  height: 100vh;
+}
+.all-page-add .titel {
+  height: 10%;
+  width: 100%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.all-page-add .exanple-titel {
+  margin-left: 10px;
+  width: 280px;
+}
+.all-page-add .Design-all {
+  display: flex;
+}
+.all-page-add .Design-all .one-img img {
+  height: 200px;
+  width: 200px;
+}
+.all-page-add .Design-all .Design-background input {
+  margin-left: 13px;
+}
+.all-page-add .Design-all .Design-background .addOneDesign-button button {
+  box-shadow: 10px 10px 44px 9px rgba(255, 244, 141, 0.54);
+  -webkit-box-shadow: 10px 10px 44px 9px rgba(255, 244, 141, 0.54);
+  -moz-box-shadow: 10px 10px 44px 9px rgba(255, 244, 141, 0.54);
+  background: #ff0000;
+  background: linear-gradient(90deg, #ff0000 0%, #e45067 80%);
+  background: -moz-linear-gradient(90deg, #ff0000 0%, #e45067 80%);
+  color: white;
+}
+.all-page-add .Design-all .Design-background .display-your-choose {
+  margin-top: 10px;
+  width: 200px;
+  background-color: aqua;
+}
+.all-page-add .Design-all .Design-background .current-designs {
+  margin-top: 20px;
+  border: 1px solid;
+}
+.all-page-add .Design-all .Design-background .current-designs .display-cuur-colors {
+  display: flex;
+}
+.all-page-add .Design-all .Design-background .current-designs .deleatOneDesign-button {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin-bottom: 3px;
+}
+.all-page-add .Design-all .Design-background .current-designs .deleatOneDesign-button button {
+  background: #ff0000;
+  background: linear-gradient(90deg, #ff0000 0%, #e45067 80%);
+  background: -moz-linear-gradient(90deg, #ff0000 0%, #e45067 80%);
+  color: white;
+}/*# sourceMappingURL=AddBackground.css.map */

@@ -1,0 +1,81 @@
+.all-nav{
+
+    display: flex;
+
+    img{
+        
+        margin-right: 300px;
+        height: 100px;
+        padding-bottom: 3px;
+        border-radius: (0px 0px 24px 0px);
+        
+    }
+}
+.nav-container{
+   
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 100px;
+    align-items: center;
+   
+    
+}
+.main-nav{
+    width: 300px;
+    justify-content: space-between;
+
+    li .link-box:hover
+    {
+        border-radius: 20px;
+    }
+}
+.UserPool{
+    margin-left: 50px;
+}
+ul{
+   
+    display: flex;
+    list-style: none;
+    li{
+    
+        .FaShoppingCart{
+            margin-top: 20px;
+        }
+        .FaShoppingCart:hover{
+
+            transform: scale(1.4,1.4);
+        }
+       
+            .num-of-type-product{
+                
+                margin-top: 20px;
+               margin-bottom: 15px;
+                width: 300%;
+                text-align: center;
+                border-radius: 10px;
+                background-color: red;
+                color: white;
+            }
+            .num-of-type-product:hover{
+               
+                
+            }
+            .change-background
+            {
+             margin-top: 15px;
+              width: 0px;
+                margin-left: 90px;
+               
+                .change-disign:hover{
+                    color: azure;
+                   
+                }
+                .to-disign:hover{
+                    color: azure;
+                    transform: scale(1.4,1.4);
+                }
+            }
+
+    }
+}

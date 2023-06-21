@@ -1,0 +1,94 @@
+[
+    {
+      "name": "television",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.B7cyTXrIrfpGLiLKGcatiwHaGu&pid=Api&P=0",
+      "price": 1400,
+      "categpry": "electricity",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+      
+    },
+    {
+      "name": "refrigirator",
+      "img": "https://sp.yimg.com/ib/th?id=OP.Us%2fyxqSP%2bXGTFg474C474&o=5&pid=21.1&w=174&h=174",
+      "price": 1300,
+      "categpry": "electricity",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "vacuum",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.NeHNEuFjO9Kg1ADi8nYjMwHaLH&pid=Api&P=0",
+      "price": 500,
+      "categpry": "electricity",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "washing machine",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.Qb1dgJ1RomJwcnBdYeQ4hQHaI5&pid=Api&P=0",
+      "price": 1000,
+      "categpry": "electricity",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "closet",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.yvuFPaJNjuBbHJFLPQ7CtAHaJ4&pid=Api&P=0",
+      "price": 900,
+      "categpry": "furniture",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "sofa",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.amNkg-Abvjv9qdOYUAF27AHaHJ&pid=Api&P=0",
+      "price": 1100,
+      "categpry": "furniture",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "bed",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.RbqFLZ76b16tpJsvfteyNQHaHa&pid=Api&P=0",
+      "price": 1500,
+      "categpry": "furniture",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "table",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.Z2NPCuvckm1R7vJz4WpOUQHaFj&pid=Api&P=0",
+      "price": 600,
+      "categpry": "furniture",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "chair",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.U9pYOgvfEfuRHgfWJKO38AHaKj&pid=Api&P=0",
+      "price": 400,
+      "categpry": "furniture",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "vase",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.Cv1r1XyrZSe1-hTr1BM9vgHaHa&pid=Api&P=0",
+      "price": 700,
+      "categpry": "decor",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "mirror",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.M8FUv3vaGSOKX4NbOPBcpQHaHa&pid=Api&P=0",
+      "price": 400,
+      "categpry": "decor",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "art",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.woMJI8lIPPheXw-IWARwFQHaG2&pid=Api&P=0",
+      "price": 1300,
+      "categpry": "decor",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    },
+    {
+      "name": "lamp",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.aUiDGmWJbSgOqNFB1PXIiAHaLB&pid=Api&P=0",
+      "price": 700,
+      "categpry": "decor",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perspiciatis eligendi sapiente adipisci corrupti aliquid, ea obcaecati voluptatibus eius expedita aspernatur voluptatem vero delectus officiis minus natus numquam odio earum?"
+    }
+  ]

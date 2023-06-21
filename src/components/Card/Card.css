@@ -1,0 +1,36 @@
+.singel-card {
+  border-radius: 6px;
+  border-radius: 5px;
+  width: 200px;
+  height: 250px;
+  margin-top: 10px;
+}
+.singel-card img {
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+}
+
+.singel-card:hover .d {
+  height: 250px;
+  width: 200px;
+}
+.singel-card:hover .d h5 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+.singel-card:hover .d img {
+  mix-blend-mode: color-burn;
+}
+
+.d {
+  background-color: rgba(0, 0, 0, 0.65);
+  position: absolute;
+  height: 0px;
+  transition: height 1.5s;
+}
+.d h5 {
+  color: rgb(255, 255, 255);
+  transition: font-size 1s;
+  font-size: 0px;
+}/*# sourceMappingURL=Card.css.map */

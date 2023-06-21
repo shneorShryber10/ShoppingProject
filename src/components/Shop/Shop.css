@@ -1,0 +1,12 @@
+.Shop-all-page .card-container {
+  margin-left: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+}
+.Shop-all-page .card-container .filters {
+  display: table-row;
+}
+.Shop-all-page .card-container .filters .input-filter {
+  margin-bottom: 10px;
+}/*# sourceMappingURL=Shop.css.map */

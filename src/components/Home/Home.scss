@@ -1,0 +1,39 @@
+
+.all-page-container
+{
+
+    .container{
+    display: flex;
+    
+
+    img{
+        margin-top: 35px;
+        height: 300px;
+        width: 500px;
+        border-radius: 10px;
+    }
+    .lorem{
+
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 25px;
+      
+    }
+}
+h1{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.most-popolar{
+   
+    margin-top: 50px;
+    gap: 5%;
+    display: flex;
+    margin-left: 50px;
+    .singel-popular-card{
+        background-color: #c79655;
+        border-radius: 4px;
+        border: 1px solid;
+    }
+}
+}

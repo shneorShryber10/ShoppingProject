@@ -1,0 +1,64 @@
+.all-nav {
+  display: flex;
+}
+.all-nav img {
+  margin-right: 200px;
+  height: 100px;
+  padding-bottom: 3px;
+  border-radius: 0px 0px 24px 0px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  height: 100px;
+  align-items: center;
+}
+
+.main-nav {
+  width: 300px;
+  justify-content: space-between;
+}
+.main-nav li .link-box:hover {
+  border-radius: 20px;
+}
+
+.UserPool {
+
+  margin-left: 100px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+ul li .FaShoppingCart {
+  margin-top: 20px;
+
+}
+ul li .FaShoppingCart:hover {
+  transform: scale(1.4, 1.4);
+}
+ul li .num-of-type-product {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  width: 300%;
+  text-align: center;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  
+}
+ul li .change-background {
+  margin-top: 15px;
+  width: 0px;
+  margin-left: 70px;
+}
+ul li .change-background .change-disign:hover {
+  color: azure;
+}
+ul li .change-background .to-disign:hover {
+  color: azure;
+  transform: scale(1.4, 1.4);
+}/*# sourceMappingURL=Nav.css.map */

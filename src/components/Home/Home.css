@@ -1,0 +1,29 @@
+.all-page-container .container {
+  display: flex;
+}
+.all-page-container .container img {
+  margin-top: 35px;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+}
+.all-page-container .container .lorem {
+  width: 100%;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+.all-page-container h1 {
+  margin-left: 100px;
+  margin-top: 150px;
+}
+.all-page-container .most-popolar {
+  margin-top: 50px;
+  gap: 5%;
+  display: flex;
+  margin-left: 50px;
+}
+.all-page-container .most-popolar .singel-popular-card {
+  background-color: #c79655;
+  border-radius: 4px;
+  border: 1px solid;
+}/*# sourceMappingURL=Home.css.map */

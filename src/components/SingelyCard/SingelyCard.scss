@@ -1,0 +1,52 @@
+
+.singel-card-container{
+    height: 100vh;
+    display: flex;
+    h1{
+        margin-left: 20px;
+    }
+    h4{
+        margin-left: 235px;
+        margin-top: 50px;
+    }
+    img{
+        height: 400px;
+    }
+    .singel-card-lorem{
+        width: 50%;
+        margin: auto;
+    }
+    .add-product{
+        margin-left: 40px;
+        margin-top: 20px;
+        button{ 
+            font-size: 35px;
+            background: border-box;
+            border: none;
+          border: none;
+            margin-right: 6px;
+            border-radius: 50%;
+            margin-left: 6px;
+        }
+    }
+    .add-to-wagon{
+        margin-left: 40px;
+        button{
+            width: 100px;
+            height: auto;
+            border-radius: 17px 17px 17px 17px;
+            border: 0.3px solid;
+            background: #faebd7;
+            background: linear-gradient(0deg,#faebd7 0%, #dd9b43 80%);
+            background: -webkit-linear-gradient(0deg,#faebd7 0%, #dd9b43 80%);
+            background: -moz-linear-gradient(0deg,#faebd7 0%, #dd9b43 80%);
+        }
+    } 
+}
+
+    
+img{
+
+    width: 400px;
+    height: 450px;
+}
